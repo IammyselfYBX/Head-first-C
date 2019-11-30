@@ -1,3 +1,6 @@
+### 程序的拆解
+把程序拆解成独立的源文件,意味着<b>程序之间共享代码</b>,每一个模块单独维护和开发
+
 ### 书上案例
 ```
 $> gcc decode.c encrypt.c message_hider.c -o message_hider
