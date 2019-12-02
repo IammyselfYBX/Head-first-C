@@ -1,0 +1,11 @@
+### 为什么需要exec()
+![exec1.png](exec1.png)
+
+### 怎么使用exec()
+![exec2](exec2.png)
+![exec](exec6.png)
+#### 一、列表函数:execl()、execlp()、execle()
+![exec2](exec3.png)
+![exec4](exec4.png)
+#### 二、数组函数:execv()、execvp()、execve()
+![exec5](exec5.png)
